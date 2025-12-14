@@ -23,9 +23,9 @@ Please don't ask me how to build it. I've never built Digital, I just patched th
 
 # How to Use
 
-Install the [v0.31 release of Digital](https://github.com/hneemann/Digital/releases/tag/v0.31). Download the jar from this repo's releases and copy it over the jar in the installation.
+Install the [v0.31 release of Digital](https://github.com/hneemann/Digital/releases/tag/v0.31). Download the `Digital.jar` file included in the [release zip](https://github.com/dbalsom/cga_sim/releases/tag/v0.1) and copy it over the `Digital.jar` in the installation.
 
-Then, open 'main.dig'.  Press the play button to start the simulation. It may take a minute for the simulation to produce a frame. A window will popup when the simulator has acquired sync lock on the output signal. You may need to resize this window to see the entire output. 
+Then, open `main.dig`.  Press the play button to start the simulation. It may take a minute for the simulation to produce a frame. A window will popup when the simulator has acquired sync lock on the output signal. You may need to resize this window to see the entire output. 
 
 You can load video memory with different things. 
 - Locate the MCM4517 component in the "Video Memory" box at bottom-center. 
