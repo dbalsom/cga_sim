@@ -1,0 +1,32 @@
+<svg viewBox="0 0 705 239" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd">
+  <path style="fill:#333" d="M2.062 0h700v35h-700z"/>
+  <text x="32.016" y="21.641" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#fff">MUX B (Pin 2)</text>
+  <text x="148.45" y="21.641" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#fff">MUX A (Pin 14)</text>
+  <text x="281.337" y="21.641" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#fff">Active Input</text>
+  <text x="466.442" y="21.641" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#fff">Mode / Description</text>
+  <path style="fill:#e3f2fd;stroke:#ddd;stroke-width:1px" d="M2.062 35h700v45h-700z"/>
+  <text x="74.385" y="60.711" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#333">0</text>
+  <text x="194.385" y="60.711" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#333">0</text>
+  <text x="294.369" y="60.711" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#333">Input 0</text>
+  <text x="455.164" y="52.711" style="font-family:&quot;Arial-BoldMT&quot;,&quot;Arial&quot;,sans-serif;font-weight:700;font-size:12px;fill:#333">TEXT MODE: Background</text>
+  <text x="436.221" y="68.711" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:11px;fill:#666">(Active when Character ROM dot is 0)</text>
+  <path style="fill:#e3f2fd;stroke:#ddd;stroke-width:1px" d="M2.062 80h700v45h-700z"/>
+  <text x="74.385" y="105.711" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#333">0</text>
+  <text x="194.385" y="105.711" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#333">1</text>
+  <text x="294.369" y="105.711" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#333">Input 1</text>
+  <text x="456.506" y="97.711" style="font-family:&quot;Arial-BoldMT&quot;,&quot;Arial&quot;,sans-serif;font-weight:700;font-size:12px;fill:#333">TEXT MODE: Foreground</text>
+  <text x="436.221" y="113.711" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:11px;fill:#666">(Active when Character ROM dot is 1)</text>
+  <path style="fill:#e8f5e9;stroke:#ddd;stroke-width:1px" d="M2.062 125h700v60h-700z"/>
+  <text x="77.041" y="157.346" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#333">1</text>
+  <text x="197.041" y="157.346" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#333">0</text>
+  <text x="297.026" y="157.346" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#333">Input 2</text>
+  <text x="482.38" y="146.874" style="font-family:&quot;Arial-BoldMT&quot;,&quot;Arial&quot;,sans-serif;font-weight:700;font-size:12px;fill:#333">GRAPHICS DATA</text>
+  <text x="433.976" y="162.739" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:11px;fill:#666">320x200: Bits C0/C1 from Shift Register</text>
+  <path style="fill:#fbe9e7;stroke:#ddd;stroke-width:1px" d="M2.062 176.035h700v60h-700z"/>
+  <text x="77.612" y="215" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#333">1</text>
+  <text x="197.612" y="215" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#333">1</text>
+  <text x="297.597" y="215" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:16px;fill:#333">Input 3</text>
+  <text x="466.656" y="193.736" style="font-family:&quot;Arial-BoldMT&quot;,&quot;Arial&quot;,sans-serif;font-weight:700;font-size:12px;fill:#333">OVERSCAN / BORDER</text>
+  <text x="456.773" y="208.736" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:11px;fill:#666">Displays Register 0x3D9 Color</text>
+  <text x="422.82" y="223.736" style="font-family:&quot;ArialMT&quot;,&quot;Arial&quot;,sans-serif;font-size:11px;fill:#666">(Also used as Foreground in 640x200 Mode)</text>
+</svg>

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>mc6845.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>U38</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1080" y="800"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VGA</elementName>
+      <elementAttributes/>
+      <pos x="3760" y="1460"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74174.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U39</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1940" y="560"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74174.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U40</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2120" y="560"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74374.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U61</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2120" y="1000"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74374.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U60</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1940" y="1000"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74374.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U59</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1760" y="1000"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74374.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U58</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1580" y="1000"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74174.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U101</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1380" y="1080"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74244.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U36</string>
+        </entry>
+      </elementAttributes>
+      <pos x="680" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74374.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U37</string>
+        </entry>
+      </elementAttributes>
+      <pos x="880" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74273.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U35</string>
+        </entry>
+      </elementAttributes>
+      <pos x="480" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74374.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U34</string>
+        </entry>
+      </elementAttributes>
+      <pos x="280" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>mk36000.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U33</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-40" y="420"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74166.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U32</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-220" y="680"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7408.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U31</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-400" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7432.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U30</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-580" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7404.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U29</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-760" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7400.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U46</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-760" y="1120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7451.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U47</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-580" y="1120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7451.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U48</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-400" y="1120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7400.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U25</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-760" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7404.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U26</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-580" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7451.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U27</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-400" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7410.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U28</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-220" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74112.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-760" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7474.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-580" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7486.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-400" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74174.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U4</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-220" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74174.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U5</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-40" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7404.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U6</string>
+        </entry>
+      </elementAttributes>
+      <pos x="140" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74166.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U7</string>
+        </entry>
+      </elementAttributes>
+      <pos x="320" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74166.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U8</string>
+        </entry>
+      </elementAttributes>
+      <pos x="500" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74153.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U9</string>
+        </entry>
+      </elementAttributes>
+      <pos x="680" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74174.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U11</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1040" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74ls393.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U12</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1220" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7408.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U13</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1400" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7432.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U14</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1580" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7400.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U15</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1760" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74138.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U17</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2120" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74138.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U19</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2480" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7404.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U20</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2660" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74174.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U21</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2840" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7451.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U22</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3020" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74244.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U24</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3380" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7408.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U41</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2480" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7486.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U42</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2660" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7474.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U43</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2840" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7474.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U44</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3020" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74151.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U45</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3200" y="360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7486.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U68</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3380" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74244.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U67</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3380" y="780"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74245.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U66</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3200" y="780"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7402.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U65</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3020" y="820"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74164.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U64</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2840" y="820"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74175.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U63</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2660" y="820"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74125.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U62</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2480" y="820"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7402.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U49</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-220" y="1120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74138.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U18</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2300" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74153.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U10</string>
+        </entry>
+      </elementAttributes>
+      <pos x="860" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7404.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U16</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1940" y="-120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>7432.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>U23</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3200" y="-120"/>
+    </visualElement>
+  </visualElements>
+  <wires/>
+  <measurementOrdering/>
+</circuit>

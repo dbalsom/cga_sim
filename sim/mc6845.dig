@@ -51,7 +51,7 @@
         </entry>
         <entry>
           <string>CodeFile</string>
-          <file>F:\digital\projects\cga\mc6845_10.v</file>
+          <file>mc6845_10.v</file>
         </entry>
       </elementAttributes>
       <pos x="820" y="180"/>

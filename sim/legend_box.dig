@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes>
+    <entry>
+      <string>shapeType</string>
+      <shapeType>LAYOUT</shapeType>
+    </entry>
+    <entry>
+      <string>backgroundColor</string>
+      <awt-color>
+        <red>153</red>
+        <green>204</green>
+        <blue>255</blue>
+        <alpha>34</alpha>
+      </awt-color>
+    </entry>
+    <entry>
+      <string>romContent</string>
+      <romList>
+        <roms/>
+      </romList>
+    </entry>
+    <entry>
+      <string>Height</string>
+      <int>64</int>
+    </entry>
+    <entry>
+      <string>Width</string>
+      <int>64</int>
+    </entry>
+  </attributes>
+  <visualElements>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>L</string>
+        </entry>
+      </elementAttributes>
+      <pos x="900" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Const</elementName>
+      <elementAttributes/>
+      <pos x="860" y="380"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="860" y="380"/>
+      <p2 x="900" y="380"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>

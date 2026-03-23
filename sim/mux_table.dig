@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes>
+    <entry>
+      <string>shapeType</string>
+      <shapeType>CUSTOM</shapeType>
+    </entry>
+    <entry>
+      <string>romContent</string>
+      <romList>
+        <roms/>
+      </romList>
+    </entry>
+    <entry>
+      <string>customShape</string>
+      <shape>
+        <pins>
+          <entry>
+            <string>o</string>
+            <pin>
+              <pos x="0" y="0"/>
+              <showLabel>false</showLabel>
+            </pin>
+          </entry>
+        </pins>
+        <drawables>
+          <poly>
+            <poly path="M -126,-14.955999 L -66,-14.955999 L -66,5.0439987 L -126,5.0439987 Z" evenOdd="false"/>
+            <thickness>4</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>180</blue>
+              <alpha>198</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M -126,-14.955999 L -66,-14.955999 L -66,5.0439987 L -126,5.0439987 Z" evenOdd="false"/>
+            <thickness>4</thickness>
+            <filled>false</filled>
+            <color>
+              <red>0</red>
+              <green>0</green>
+              <blue>0</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M -760,-19.777 L -60,-19.777 L -60,15.223 L -760,15.223 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M -760,-19.777 L -60,-19.777 L -60,15.223 L -760,15.223 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>false</filled>
+            <color>
+              <red>0</red>
+              <green>0</green>
+              <blue>0</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <text>
+            <p1 x="-730" y="2"/>
+            <p2 x="-729" y="2"/>
+            <text>MUX B (Pin 2)</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-614" y="2"/>
+            <p2 x="-613" y="2"/>
+            <text>MUX A (Pin 14)</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-481" y="2"/>
+            <p2 x="-480" y="2"/>
+            <text>Active Input</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-296" y="2"/>
+            <p2 x="-295" y="2"/>
+            <text>Mode / Description</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <poly>
+            <poly path="M -760,15.223 L -60,15.223 L -60,60.223 L -760,60.223 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>227</red>
+              <green>242</green>
+              <blue>253</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M -760,15.223 L -60,15.223 L -60,60.223 L -760,60.223 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>false</filled>
+            <color>
+              <red>221</red>
+              <green>221</green>
+              <blue>221</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <text>
+            <p1 x="-687" y="41"/>
+            <p2 x="-686" y="41"/>
+            <text>0</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-566" y="41"/>
+            <p2 x="-565" y="41"/>
+            <text>0</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-467" y="41"/>
+            <p2 x="-466" y="41"/>
+            <text>Input 0</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <poly>
+            <poly path="M -760,60.223 L -60,60.223 L -60,105.22299 L -760,105.22299 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>227</red>
+              <green>242</green>
+              <blue>253</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M -760,60.223 L -60,60.223 L -60,105.22299 L -760,105.22299 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>false</filled>
+            <color>
+              <red>221</red>
+              <green>221</green>
+              <blue>221</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <text>
+            <p1 x="-307" y="78"/>
+            <p2 x="-306" y="78"/>
+            <text>TEXT MODE: Background</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>12</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-306" y="32"/>
+            <p2 x="-305" y="32"/>
+            <text>TEXT MODE: Foreground</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>12</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-326" y="48"/>
+            <p2 x="-325" y="48"/>
+            <text>(Active when Character ROM dot is 1)</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>11</size>
+            <color>
+              <red>102</red>
+              <green>102</green>
+              <blue>102</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-326" y="94"/>
+            <p2 x="-325" y="94"/>
+            <text>(Active when Character ROM dot is 0)</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>11</size>
+            <color>
+              <red>102</red>
+              <green>102</green>
+              <blue>102</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-687" y="91"/>
+            <p2 x="-686" y="91"/>
+            <text>0</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-566" y="91"/>
+            <p2 x="-565" y="91"/>
+            <text>1</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-466" y="91"/>
+            <p2 x="-465" y="91"/>
+            <text>Input 1</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <poly>
+            <poly path="M -760,105.22301 L -60,105.22301 L -60,165.223 L -760,165.223 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>232</red>
+              <green>245</green>
+              <blue>233</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M -760,105.22301 L -60,105.22301 L -60,165.223 L -760,165.223 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>false</filled>
+            <color>
+              <red>221</red>
+              <green>221</green>
+              <blue>221</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <text>
+            <p1 x="-687" y="141"/>
+            <p2 x="-686" y="141"/>
+            <text>1</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-566" y="141"/>
+            <p2 x="-565" y="141"/>
+            <text>0</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-467" y="141"/>
+            <p2 x="-466" y="141"/>
+            <text>Input 2</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-280" y="127"/>
+            <p2 x="-279" y="127"/>
+            <text>GRAPHICS DATA</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>12</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-328" y="143"/>
+            <p2 x="-327" y="143"/>
+            <text>320x200: Bits C0/C1 from Shift Register</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>11</size>
+            <color>
+              <red>102</red>
+              <green>102</green>
+              <blue>102</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <poly>
+            <poly path="M -760,156.258 L -60,156.258 L -60,216.258 L -760,216.258 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>251</red>
+              <green>233</green>
+              <blue>231</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M -760,156.258 L -60,156.258 L -60,216.258 L -760,216.258 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>false</filled>
+            <color>
+              <red>221</red>
+              <green>221</green>
+              <blue>221</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <text>
+            <p1 x="-687" y="190"/>
+            <p2 x="-686" y="190"/>
+            <text>1</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-566" y="190"/>
+            <p2 x="-565" y="190"/>
+            <text>1</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-467" y="190"/>
+            <p2 x="-466" y="190"/>
+            <text>Input 3</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>16</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-295" y="174"/>
+            <p2 x="-294" y="174"/>
+            <text>OVERSCAN / BORDER</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>12</size>
+            <color>
+              <red>51</red>
+              <green>51</green>
+              <blue>51</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-305" y="189"/>
+            <p2 x="-304" y="189"/>
+            <text>Displays Register 0x3D9 Color</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>11</size>
+            <color>
+              <red>102</red>
+              <green>102</green>
+              <blue>102</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-339" y="204"/>
+            <p2 x="-338" y="204"/>
+            <text>(Also used as Foreground in 640x200 Mode)</text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>11</size>
+            <color>
+              <red>102</red>
+              <green>102</green>
+              <blue>102</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="-14" y="7"/>
+            <p2 x="-13" y="7"/>
+            <text>o</text>
+            <orientation>RIGHTBOTTOM</orientation>
+            <size>18</size>
+            <color>
+              <red>128</red>
+              <green>128</green>
+              <blue>128</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+        </drawables>
+        <label>
+          <p1 x="-447" y="-23"/>
+          <p2 x="-446" y="-23"/>
+          <text></text>
+          <orientation>LEFTBOTTOM</orientation>
+          <size>24</size>
+          <color reference="../../drawables/poly[4]/color"/>
+        </label>
+      </shape>
+    </entry>
+  </attributes>
+  <visualElements>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>o</string>
+        </entry>
+      </elementAttributes>
+      <pos x="820" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="780" y="380"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="780" y="380"/>
+      <p2 x="820" y="380"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>

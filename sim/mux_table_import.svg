@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 700 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,634,35.043541)">
+        <rect x="0" y="-10" width="60" height="20" style="fill:rgb(255,255,180);fill-opacity:0.78;stroke:black;stroke-width:4px;"/>
+    </g>
+    <g id="label" transform="matrix(1,0,0,1,342.38752,17.179688)">
+        <text id="label" x="-29.36132812px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:24px;">Label</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-2.062,20.222853)">
+        <rect x="2.062" y="0" width="700" height="35" style="fill:rgb(51,51,51);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,29.954,41.863853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">MUX B (Pin 2)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,146.388,41.863853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">MUX A (Pin 14)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,279.275,41.863853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">Active Input</text>
+    </g>
+    <g transform="matrix(1,0,0,1,464.38,41.863853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">Mode / Description</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-2.062,20.222853)">
+        <rect x="2.062" y="35" width="700" height="45" style="fill:rgb(227,242,253);stroke:rgb(221,221,221);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,72.323,80.933853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">0</text>
+    </g>
+    <g transform="matrix(1,0,0,1,192.323,80.933853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">0</text>
+    </g>
+    <g transform="matrix(1,0,0,1,292.307,80.933853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">Input 0</text>
+    </g>
+    <g transform="matrix(1,0,0,1,453.102,72.933853)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;fill:rgb(51,51,51);">TEXT MODE: Background</text>
+    </g>
+    <g transform="matrix(1,0,0,1,434.159,88.933853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;fill:rgb(102,102,102);">(Active when Character ROM dot is 0)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-2.062,20.222853)">
+        <rect x="2.062" y="80" width="700" height="45" style="fill:rgb(227,242,253);stroke:rgb(221,221,221);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,72.323,125.933853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">0</text>
+    </g>
+    <g transform="matrix(1,0,0,1,192.323,125.933853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">1</text>
+    </g>
+    <g transform="matrix(1,0,0,1,292.307,125.933853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">Input 1</text>
+    </g>
+    <g transform="matrix(1,0,0,1,454.444,117.933853)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;fill:rgb(51,51,51);">TEXT MODE: Foreground</text>
+    </g>
+    <g transform="matrix(1,0,0,1,434.159,133.933853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;fill:rgb(102,102,102);">(Active when Character ROM dot is 1)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-2.062,20.222853)">
+        <rect x="2.062" y="125" width="700" height="60" style="fill:rgb(232,245,233);stroke:rgb(221,221,221);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,74.979,177.568853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">1</text>
+    </g>
+    <g transform="matrix(1,0,0,1,194.979,177.568853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">0</text>
+    </g>
+    <g transform="matrix(1,0,0,1,294.964,177.568853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">Input 2</text>
+    </g>
+    <g transform="matrix(1,0,0,1,480.318,167.096853)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;fill:rgb(51,51,51);">GRAPHICS DATA</text>
+    </g>
+    <g transform="matrix(1,0,0,1,431.914,182.961853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;fill:rgb(102,102,102);">320x200: Bits C0/C1 from Shift Register</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-2.062,20.222853)">
+        <rect x="2.062" y="176.035" width="700" height="60" style="fill:rgb(251,233,231);stroke:rgb(221,221,221);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,75.55,235.222853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">1</text>
+    </g>
+    <g transform="matrix(1,0,0,1,195.55,235.222853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">1</text>
+    </g>
+    <g transform="matrix(1,0,0,1,295.535,235.222853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">Input 3</text>
+    </g>
+    <g transform="matrix(1,0,0,1,464.594,213.958853)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;fill:rgb(51,51,51);">OVERSCAN / BORDER</text>
+    </g>
+    <g transform="matrix(1,0,0,1,454.711,228.958853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;fill:rgb(102,102,102);">Displays Register 0x3D9 Color</text>
+    </g>
+    <g transform="matrix(1,0,0,1,420.758,243.958853)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;fill:rgb(102,102,102);">(Also used as Foreground in 640x200 Mode)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,80,80)">
+        <g transform="matrix(1,0,0,1,610,-38.956459)">
+            <circle fill="#b20000" id="pin:o" cx="60" cy="0" r="3"/>
+            <text fill="#808080" font-size="18" text-anchor="end" x="56" y="6">o</text>
+        </g>
+    </g>
+</svg>
